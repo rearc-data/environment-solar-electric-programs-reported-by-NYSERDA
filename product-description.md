@@ -1,10 +1,6 @@
-<a href="https://www.rearc.io/data/">
-    <img src="./rearc_logo_rgb.png" alt="Rearc Logo" title="Rearc Logo" height="52" />
-</a>
-
 ### Solar Electric Programs Reported by NYSERDA: Beginning 2000 | Open Data NY
 
-You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-cglatycnf4arw](https://aws.amazon.com/marketplace/pp/prodview-cglatycnf4arw).
+The source code outlining how this product gathers, transforms, revises and publishes its datasets is available at [https://github.com/rearc-data/environment-solar-electric-programs-reported-by-NYSERDA](https://github.com/rearc-data/environment-solar-electric-programs-reported-by-NYSERDA).
 
 ## Main Overview
 This Data is provided by the New York State Energy Research and Development Authority Solar Electric Programs ([NYSERDA](https://nyserda.ny.gov)). NYSERDA offers objective information and analysis, innovative programs, technical expertise, and support to help New Yorkers increase energy efficiency, save money, use renewable energy, and reduce reliance on fossil fuels. 

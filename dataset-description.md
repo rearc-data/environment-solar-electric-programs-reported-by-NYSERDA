@@ -1,0 +1,1 @@
+Solar Electric Programs Reported by NYSERDA; Beginning 2000 dataset is provided by the New York State Energy Research and Development Authority Solar Electric Programs ([NYSERDA](https://nyserda.ny.gov)). The dataset includes the New York state's data with `zip code` level resolution. The update frequency is monthly.
